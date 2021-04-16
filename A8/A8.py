@@ -1,3 +1,8 @@
+# Luke Sweeney
+# 1001764631
+# CSE 3380 - Linear Algebra
+# Professor Dillhoff
+# A8 - April 9, 2021
 import numpy as np
 import scipy.linalg as linalg
 import sympy
